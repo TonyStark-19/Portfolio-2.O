@@ -1,5 +1,5 @@
 // import icons
-import { LuExternalLink, LuBriefcase } from "react-icons/lu";
+import { LuExternalLink } from "react-icons/lu";
 
 // import components
 import TechTag from "./TechTag";
@@ -21,17 +21,6 @@ export default function FreelanceCard({ project }) {
                 />
 
                 <div className="absolute inset-0 bg-linear-to-t from-[#0a0a0a] via-transparent to-transparent" />
-
-                {/* Freelance badge on image */}
-                <div className="absolute top-3 left-3">
-                    <span
-                        className="flex items-center gap-1.5 text-[10px] font-mono tracking-widest uppercase
-                        px-2.5 py-1 rounded-full bg-amber-400/15 border border-amber-400/25 text-amber-400"
-                    >
-                        <LuBriefcase size={9} />
-                        Freelance
-                    </span>
-                </div>
             </div>
 
             {/* Body */}

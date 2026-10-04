@@ -6,7 +6,7 @@ const EXPERIENCES = [
         company: "Shikhram AI",
         badge: "Full-time",
         duration: "May 2026 - Present",
-        location: "Delhi, India · Hybrid",
+        location: "Delhi, India · Full Time",
         description: [
             "Working as an AI Product Developer at Shikhram AI, building and improving AI-powered products and scalable web applications.",
             "Contributing across frontend, backend, APIs, and AI-powered workflows in a fast-paced startup environment.",

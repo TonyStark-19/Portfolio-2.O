@@ -9,7 +9,7 @@ import SectionHeader from "../Components/Projects/SectionHeader";
 const STREAK_START = Date.UTC(2024, 6, 9);
 
 // import icons
-import { LuLayers, LuDatabase, LuCode, LuFolderCode, LuBriefcase, LuBookOpen, LuServer, LuLeaf } from "react-icons/lu";
+import { LuLayers, LuDatabase, LuCode, LuFolderCode, LuBookOpen, LuServer, LuLeaf } from "react-icons/lu";
 
 // community projects data
 const COMMUINITY_PROJECTS = [
@@ -112,19 +112,29 @@ const PERSONAL_PROJECTS = [
 // freelance projects data
 const FREELANCE_PROJECTS = [
     {
+        title: "PodStich",
+        client: "PodStich Studio",
+        summary: "High-converting podcast production and video editing platform designed for creators, featuring interactive trailer showcases, animated metric counters, and custom media players.",
+        tech: ["React", "Tailwind CSS", "Framer Motion", "TypeScript"],
+        image: "/images/Projects/Freelance/PodStich.png",
+        live: "https://www.podstich.com/",
+        github: null,
+        icon: <LuLayers className="text-amber-400" />,
+    },
+    {
         title: "PrinceEdits",
         client: "Prince Pal",
         summary: "Video editor portfolio website created for Prince Pal, featuring a modern visual design, smooth animations, and responsive layouts to showcase his video editing work and creative projects.",
         tech: ["React", "Tailwind CSS", "Framer Motion"],
         image: "/images/Projects/Freelance/PrinceEdits.png",
-        live: "https://prince-edits.vercel.app/",
+        live: "https://www.princeedits.com/",
         github: null,
         icon: <LuLayers className="text-amber-400" />,
     },
     {
         title: "Krutrim Insights Website",
         client: "Krutrim Insights",
-        summary: "An interconnected full-stack Admin, Mentor, and Student portal infrastructure backed by robust serverless logic. Engineered an advanced cloud architecture featuring 16 database tables, 12 API Gateways, 29 API routes, 13 Lambda functions, and automated email workflows via AWS SES.",
+        summary: "Engineered a full-stack Admin, Mentor, and Student portal website backed by a serverless AWS cloud infrastructure (SES, Lambda, API Gateway) with 16 database tables and 29 API routes.",
         tech: ["React.js", "Tailwind CSS", "AWS Lambda", "API Gateway", "Amazon S3", "AWS SES"],
         image: "/images/Projects/Freelance/Krutrim.png",
         live: "https://www.krutriminsights.com",
@@ -140,17 +150,7 @@ const FREELANCE_PROJECTS = [
         live: "https://cervine.vercel.app/",
         github: null,
         icon: <LuLayers className="text-amber-400" />,
-    },
-    {
-        title: "DS Machine Tools",
-        client: "DS Machine Tools (P) Ltd.",
-        summary: "Fully responsive business website showcasing the company's services, capabilities, and products with smooth animations and a professional UI.",
-        tech: ["HTML", "CSS", "JavaScript"],
-        image: "/images/Projects/Freelance/DS.png",
-        live: "https://ds-machine-tools.vercel.app/",
-        github: null,
-        icon: <LuBriefcase className="text-amber-400" />,
-    },
+    }
 ];
 
 // projects page

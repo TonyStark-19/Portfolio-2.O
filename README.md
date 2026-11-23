@@ -1,4 +1,4 @@
-# 🚀 Aditya Chandel — Full Stack Developer Portfolio
+# 🚀 My Portfolio website
 
 <!-- ===================== REPO STATS ===================== -->
 ![Repo Size](https://img.shields.io/github/repo-size/TonyStark-19/my-portfolio?color=yellow)
@@ -41,10 +41,12 @@ This portfolio is not just a collection of projects — it's a reflection of:
 
 ## 🎯 Objectives
 
-- Present my work in a **clean, structured, and impactful way**
-- Build a **high-performance and scalable frontend**
-- Maintain **clean code architecture**
-- Reflect my philosophy of **consistency over intensity**
+| # | Objective |
+|---|---|
+| 1 | Present my work in a **clean, structured, and impactful way** |
+| 2 | Build a **high-performance and scalable frontend** |
+| 3 | Maintain **clean code architecture** |
+| 4 | Reflect my philosophy of **consistency over intensity** |
 
 ---
 
@@ -52,13 +54,13 @@ This portfolio is not just a collection of projects — it's a reflection of:
 
 | Feature | Description |
 |--------|------------|
-| ⚡ Responsive Design | Mobile-first layout optimized for all screen sizes |
-| 🌙 Dark UI | Minimal dark theme with subtle gradients |
-| 🧭 Navigation | Sidebar + mobile navigation system |
-| 📊 GitHub Calendar | Live contribution heatmap integration |
-| 🔄 Scroll Behavior | Scroll-to-top on route change |
-| ♿ Accessibility | Proper contrast, spacing, and readability |
-| 🚀 Performance | Fast build & optimized loading with Vite |
+| Responsive Design | Mobile-first layout optimized for all screen sizes |
+| Dark UI | Minimal dark theme with subtle gradients |
+| Navigation | Sidebar + mobile navigation system |
+| GitHub Calendar | Live contribution heatmap integration |
+| Scroll Behavior | Scroll-to-top on route change |
+| Accessibility | Proper contrast, spacing, and readability |
+| Performance | Fast build & optimized loading with Vite |
 
 ---
 
@@ -66,13 +68,13 @@ This portfolio is not just a collection of projects — it's a reflection of:
 
 | Section | Description |
 |--------|------------|
-| 🏠 Home | Introduction and personal philosophy |
-| 👤 About | Journey, consistency streak, and background |
-| 🛠 Skills | Technologies, tools, and stack |
-| 📂 Projects | Real-world work and builds |
-| 📈 Experience | Timeline of learning and contributions |
-| ✍️ Articles | Technical blogs and insights |
-| 🤝 Connect | Contact details and social links |
+| Home | Introduction and personal philosophy |
+| About | Journey, consistency streak, and background |
+| Skills | Technologies, tools, and stack |
+| Projects | Real-world work and builds |
+| Experience | Timeline of learning and contributions |
+| Articles | Technical blogs and insights |
+| Connect | Contact details and social links |
 
 ---
 
@@ -80,10 +82,10 @@ This portfolio is not just a collection of projects — it's a reflection of:
 
 | Category | Technologies |
 |---------|-------------|
-| 💻 Frontend | React.js, React Router, Tailwind CSS, React Icons |
-| ⚙️ Tooling | Vite, Git, GitHub |
-| 🚀 Deployment | Vercel |
-| 🔗 Integrations | react-github-calendar |
+| Frontend | React.js, React Router, Tailwind CSS, React Icons |
+| Tooling | Vite, Git, GitHub |
+| Deployment | Vercel |
+| Integrations | react-github-calendar |
 
 ---
 
